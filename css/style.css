@@ -1,0 +1,28 @@
+body{
+    background-color: darkorange;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.box{
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+    min-height: 40px;
+}
+
+.nested_box{
+    background-color: greenyellow;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.line{
+    height: 50px;
+}
